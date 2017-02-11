@@ -1,8 +1,8 @@
 export default ()=>{
 	return [
-		{title: 'Javascript: The Good PArts'},
-		{title: 'Harry Potter'},
-		{title: 'The Dark Tower'},
-		{title: 'The last one'}
+		{title: 'Javascript: The Good Parts', pages: 101},
+		{title: 'Harry Potter', pages: 39},
+		{title: 'The Dark Tower', pages: 45},
+		{title: 'Eloquent Ruby', pages: 1}
 	]
-}
+} 
